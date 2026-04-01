@@ -1,9 +1,8 @@
 # AWS Security Agent — Workshop
 
 > **[AWS User Group Playa Vicente](https://tiburoncp.siegfried-fs.com)**
->
-> ⚠️ **Nota:** A partir del 1 de abril de 2026, AWS Security Agent pasó de **Preview** a **GA (Generally Available)**.
-> Esta documentación fue creada durante el Preview — algunos pasos o pantallas pueden variar en la versión GA.
+
+> ⚠️ **Nota importante — 1 de abril de 2026:** AWS Security Agent pasó de **Preview** a **GA (Generally Available)**. Esta documentación fue creada durante el Preview. Algunos pasos o pantallas pueden variar en la versión GA. Verifica siempre la [documentación oficial](https://docs.aws.amazon.com/securityagent/latest/userguide/what-is.html).
 
 Repositorio de aprendizaje y documentación del workshop de AWS Security Agent. Incluye errores encontrados, limitaciones reales y observaciones honestas del servicio — para que no cometas los mismos errores.
 
@@ -17,10 +16,9 @@ aws-security-agent-workshop/
 ├── README.md
 │
 ├── proyectos/
-│   ├── 01-virustotal-s3/            # Escáner de archivos con VirusTotal — Design Review
+│   ├── 01-virustotal-s3/            # Escáner de archivos con VirusTotal — Design Review (3 fases)
 │   │   ├── README.md
-│   │   ├── design-review/           # Documentos subidos al agente (3 fases)
-│   │   └── resultados/              # Comparativa de findings por fase
+│   │   └── design-review/           # Documentos subidos al agente
 │   │
 │   └── 02-app-vulnerable/           # App con vulnerabilidades — Code Review + Pen Testing
 │       └── README.md
@@ -48,7 +46,7 @@ aws-security-agent-workshop/
 | Design Review | Analiza documentos de arquitectura | ✅ Probado — 3 fases |
 | Code Review | Revisa PRs en GitHub automáticamente | ✅ Probado — ver advertencia |
 | Penetration Testing | Pen test on-demand contra una URL | ✅ Probado |
-| Requisitos personalizados | Define tus propios estándares de seguridad | 📖 Documentado (no usado en el workshop) |
+| Requisitos personalizados | Define tus propios estándares de seguridad | 📖 Documentado |
 
 ---
 
@@ -75,9 +73,9 @@ aws-security-agent-workshop/
 ## Observaciones del Workshop
 
 ### ✅ Lo que funciona bien
-- Design reviews funcionan sin configuración adicional
+- Design reviews funcionan sin configuración adicional — listo en minutos
 - La web app es más limpia que la consola para el día a día
-- Pen testing con verificación DNS es sólido
+- Pen testing con verificación DNS es sólido y el proceso es claro
 
 ### ⚠️ Limitaciones encontradas
 - Solo disponible en `us-east-1` (durante Preview — verificar en GA)
@@ -119,4 +117,3 @@ aws-security-agent-workshop/
 ---
 
 *Workshop creado con ❤️ para AWS User Group Playa Vicente*
-# aws-security-agent-workshop
