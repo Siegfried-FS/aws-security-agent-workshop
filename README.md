@@ -1,6 +1,6 @@
 # AWS Security Agent — Workshop
 
-> **[AWS User Group Playa Vicente](https://tiburoncp.siegfried-fs.com)**
+> **[AWS User Group Playa Vicente](https://www.meetup.com/aws-user-group-playa-vicente)**
 
 > ⚠️ **Nota importante — 1 de abril de 2026:** AWS Security Agent pasó de **Preview** a **GA (Generally Available)**. Esta documentación fue creada durante el Preview. Algunos pasos o pantallas pueden variar en la versión GA. Verifica siempre la [documentación oficial](https://docs.aws.amazon.com/securityagent/latest/userguide/what-is.html).
 
@@ -107,7 +107,6 @@ aws-security-agent-workshop/
 
 | Canal | Enlace |
 |-------|--------|
-| 🌐 Sitio web | [tiburoncp.siegfried-fs.com](https://tiburoncp.siegfried-fs.com) |
 | 📅 Meetup | [meetup.com/aws-user-group-playa-vicente](https://www.meetup.com/aws-user-group-playa-vicente) |
 | 📸 Instagram | [@aws_ug_playa_vicente](https://www.instagram.com/aws_ug_playa_vicente/) |
 | ▶️ YouTube | [Canal YouTube](https://www.youtube.com/channel/UCObJL_Id1HHsx1hg0aNISlw) |
