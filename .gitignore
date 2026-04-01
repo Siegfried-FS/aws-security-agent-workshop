@@ -1,0 +1,16 @@
+# Imágenes y assets
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.webp
+*.gif
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
