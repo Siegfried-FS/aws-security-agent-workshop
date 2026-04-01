@@ -2,7 +2,7 @@
 
 > **[AWS User Group Playa Vicente](https://www.meetup.com/aws-user-group-playa-vicente)**
 
-> ⚠️ **Nota importante — 1 de abril de 2026:** AWS Security Agent pasó de **Preview** a **GA (Generally Available)**. Esta documentación fue creada durante el Preview. Algunos pasos o pantallas pueden variar en la versión GA. Verifica siempre la [documentación oficial](https://docs.aws.amazon.com/securityagent/latest/userguide/what-is.html).
+> ⚠️ **Nota importante — 1 de abril de 2026:** La capacidad de **Penetration Testing** pasó de Preview a **GA** y comenzó a generar costo desde esta fecha. **Design Review y Code Review siguen en Preview gratuito**. Verifica siempre la [página de precios](https://aws.amazon.com/security-agent/pricing/) antes de ejecutar un pen test.
 
 Repositorio de aprendizaje y documentación del workshop de AWS Security Agent. Incluye errores encontrados, limitaciones reales y observaciones honestas del servicio — para que no cometas los mismos errores.
 
